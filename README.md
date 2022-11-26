@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**mohcer/mohcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+"Do not reinvent the wheel" is a highly subjective idiomatic metaphor and is a standard bit of received wisdom in software industry. Realizing it at an early stage and coming out of this erroneous notion has only produced outcome as leveraged knowledge. Innovation is always the key aspect and I always believe in self-learning and improvement by doing.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
